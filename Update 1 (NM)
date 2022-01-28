@@ -1,5 +1,7 @@
-\usepackage{article}
+\documentclass{article}
 \usepackage[utf8]{inputenc}
+\usepackage{biblatex} %Imports biblatex package
+\addbibresource{update1.bib} %Import the bibilography file
 
 \title{%
     \textbf{Cardiac Nuclear Medicine\\} 
@@ -13,8 +15,6 @@
 
 
 \maketitle
-
-
 
 \large{This term paper will highlight the following aspects:} 
 
@@ -40,7 +40,7 @@
 
 \vspace{1 cm}
 
-\begin{abstract}\textbf{Nuclear Medicine is a diagnostic method that is multidisciplinary in nature. Coronary artery disease and cardiomyopathy are diagnosed via cardiac nuclear medicine imaging. It can also be used to see if chemotherapy or radiotherapy has caused damage to the heart. Nuclear medicine involves the inhalation, swallowing, or injection of trace amounts of radioactive compounds known as radio-tracers or radio medicines into the bloodstream. These radio-tracers move through the area under investigation and emit energy in the form of gamma rays, which are detected by a gamma camera and a computer, resulting in images of the inside of the body based on Artificial Neural Network. While a radio tracer travels around the body, ANN (Artificial Intelligence technology) functions as a tool for detecting and localising disorders. The information contained in myocardial perfusion scintigrams is used to diagnose cardiac problems. Founder or merging of images is a technique that uses CT or MRI to create unique views. Nowadays, we have a single SPECT/CT and PET/CT device that can perform both imaging exams simultaneously. Artificial intelligence is used to detect and localise coronary artery disease, typically by analysing data from myocardial perfusion scintigrams. To reduce the amount of variables and extract relevant features from the myocardial perfusion images, they were preprocessed. A 2-D Fourier transformation was used to perform the preprocessing, which included both rest and stress images. Nuclear medicine imaging gives information that is often not available through standard imaging methods.}\\
+\begin{abstract}\textbf{Nuclear Medicine is a diagnostic method that is multidisciplinary in nature. Coronary artery disease and cardiomyopathy are diagnosed via cardiac nuclear medicine imaging. It can also be used to see if chemotherapy or radiotherapy has caused damage to the heart. Nuclear medicine involves the inhalation, swallowing, or injection of trace amounts of radioactive compounds known as radio-tracers or radio medicines into the bloodstream. These radio-tracers move through the area under investigation and emit energy in the form of gamma rays, which are detected by a gamma camera and a computer, resulting in images of the inside of the body based on Artificial Neural Network. While a radio tracer travels around the body, ANN (Artificial Intelligence technology) functions as a tool for detecting and localising disorders. The information contained in myocardial perfusion scintigrams is used to diagnose cardiac problems. Founder or merging of images is a technique that uses CT or MRI to create unique views. Nowadays, we have a single SPECT/CT and PET/CT device that can perform both imaging exams simultaneously. Artificial intelligence is used to detect and localise coronary artery disease, typically by analysing data from myocardial perfusion scintigrams. To reduce the amount of variables and extract relevant features from the myocardial perfusion images, they were preprocessed. A 2-D Fourier transformation was used to perform the preprocessing, which included both rest and stress images. Nuclear medicine imaging gives information that is often not available through standard imaging methods\cite{gemmell2005single}}.\\
     \\
     \textbf{\textit{Keywords - Coronary artery disease;radioactive;gamma rays;artificial intelligence technology;scintigrams;SPECT;PET}}
 \end{abstract}
@@ -48,3 +48,4 @@
 
 
 \end{document}
+
