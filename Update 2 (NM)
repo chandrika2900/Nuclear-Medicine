@@ -1,0 +1,33 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{biblatex} %Imports biblatex package
+\addbibresource{update2.bib} %Import the bibilography file
+
+\title{Update 2}
+\author{\textit{Chandrika Rani Tudu}}
+\date{28/01/22}
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}Nuclear medicine is the branch of medicine that deals with the use of radio-active diagnosis and treatment. It is a branch of medical imaging that uses trace amount of radioactive to diagnose and determine the severity and treatment for many types of disease as in cancers, heart disease, gastro-intestinal, endocrine, neurological disorders other abnormalities inside the body.
+
+\vspace{0.5 cm}
+
+Radionuclide are radioactive compounds that are given to patients physically, ingested, or inhaled. These radio detectors pass through the area being explored and emit gamma rays as energy. A specific camera called a gamma camera detects these gamma rays.
+
+\vspace{0.5 cm}
+
+When a radionuclide is injected into the body, it is frequently chemically attached to a complex that acts as a carrier molecule. This allows us to track molecular activity throughout the body. This has the ability to detect disease early on as well as a patient's rapid reaction to therapeutic interventions. Coronary artery disease and cardiomyopathy are assessed by cardiac nuclear medicine imaging\cite{massoud2003molecular}. It can also be used to detect whether chemo or radiotherapy has caused harm to the heart. Small doses of radioactive elements called radio-tracers are injected into the circulation, breathed, or taken in nuclear medicine\cite{cerqueiramyocardial}. The radio-tracer passes through the area being examined and emits energy in the form of gamma rays, which are detected by a gamma camera and a computer, resulting in images of the inside of your body. Nuclear medicine imaging gives information that is often not available through other imaging techniques.
+
+\subsection{{Some common uses of procedures}\cite{flohr2001heart}}
+• Nuclear medicine imaging of the cardiac is also done.
+\\• A myocardial perfusion scan is being used to visualise circulatory patterns to the cardiac walls.
+\\• To determine whether or not coronary artery disease is present and how serious it is.
+\\• To detect the extent of heart damage after a heart attack, also known as a myocardial infarction.
+\\• To analyze the effects of bypass surgery or other revascularization operations re - establishing the heart's blood circulation.
+\\• A technique known as cardiac gating is used in connection with an electrocardiogram (ECG) to evaluate cardiac movement and overall heart function.
+
+
+\end{document}
