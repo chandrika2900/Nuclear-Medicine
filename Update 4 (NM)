@@ -1,0 +1,18 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{biblatex} %Imports biblatex package
+\addbibresource{update4.bib} %Import the bibilography file
+
+
+\title{Update 4}
+\author{\textit{Chandrika Rani Tudu}}
+\date{11/02/2022}
+
+\begin{document}
+
+\maketitle
+
+\section{Radio-pharmaceuticals}
+\textbf{Myocardial perfusion:} Thallium-201 chloride was the first pharmaceutical commonly utilised in clinical cardiac perfusion imaging. It's a good agent for imaging perfusion, and many centres still employ it to image the heart. It is not the best agent for imaging because of its extended half-life and low energy X-ray emission, resulting in a higher radiation dosage and inferior image quality than technetium agents. It functions similarly to the K+ ion (through Na/KATPase) and is rapidly redistributed, beginning 20 minutes after injection\cite{stewart2000comparison}. Ischemic heart disease: Nuclear medicine plays a significant role in the identification of ischemic heart disease (IHD), which can be reversible or irreversible, by employing a particular radiopharmaceutical. The most often utilised radiopharmaceuticals in clinical practise are 99mTc-Sestamibi, 99m Tc-Tetrofosmin, and 201Tl. This research looked at the usage of counts/second /pixel(c/s/p), reversibility percent among arteries (LAD, LCX, and RCA) in assessing 99mTc-MIBI and 201TL bio-distribution in both stress and rest, as well as factors impacting reversibility including age, gender, and obesity.
+
+\end{document}
