@@ -1,0 +1,23 @@
+\documentclass{article}
+
+\usepackage[utf8]{inputenc}
+
+\usepackage{biblatex} %Imports biblatex package
+
+\addbibresource{update 5.bib} %Import the bibilography file
+
+\title{Update 5}
+
+\author{\textit{Chandrika Rani Tudu}}
+
+\date{18/02/2022}
+
+\begin{document}
+
+\maketitle
+
+\section{Coronary heart disease}
+
+Radionuclide stress testing is injecting a radioactive isotopein into a patient's vein, following which a special camera captures an image of the patient's heart. The normal heart muscle absorbs the radioactive isotopes. Nuclear pictures are taken while the subject is at rest and soon after exercise. After that, the two sets of photos are compared. If a blockage in a coronary artery causes reduced blood flow to a portion of the cardiac muscle during exercise, this area of the heart will appear as a "cold spot" on a nuclear scan. On photos taken while the patient is at rest, this cold patch is not evident (when coronary flow is adequate). While more time-consuming and expensive than a standard ECST, radionuclide stress testing considerably improves the accuracy of identifying coronary heart disease\cite{limbacher1998radiation}.
+
+\end{document}
