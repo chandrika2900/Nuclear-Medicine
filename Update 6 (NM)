@@ -1,0 +1,17 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{biblatex} %Imports biblatex package
+\addbibresource{update6.bib} %Import the bibilography file
+
+\title{Update 6}
+\author{\textit{Chandrika Rani Tudu}}
+\date{25/02/2022}
+
+\begin{document}
+
+\maketitle
+
+\section{Artificial Neural Network}
+Artificial neural networks are used to detect and localise coronary artery disease, typically by analysing from myocardial perfusion scintigrams. In a group of individuals ranging in age from 74 to 410, a neural network was used to diagnose coronary artery disease. Artificial neural networks diagnosed cases of coronary artery disease that were comparable to a gold standard, which included a coronary angiography, two human experts analysing myocardial perfusion studies, or all clinical patient data, including ECG analysis, results of a physical exercise test, and the patient's history. All of the artificial neural network models that were used had a three-layer structure and a feed-forward information flow. There were three layers in each neural network: an input layer, a hidden layer, and an output layer. The number of neurons in an input layer ranged from 11 to 256, depending on the scintigram matrix and other data utilized, whereas the number of neurons in a hidden layer varied from 3 to 140\cite{ko2002neural}. One, two, or eight units made up an output layer. All of the clinical data was used in the input signals of an artificial neural network that detected coronary artery disease. To reduce the amount of variables and extract essential features from the images, the myocardial perfusion images were pre-processed. A two-dimensional Fourier transformation was employed to perform the pre-processing, which included both rest and stress images. After this modification, the input neurons were given 30 values that represent the real and imaginary parts of the Fourier coefficients. Other studies included male or female individuals, an exercise test, a resting ECG, heart rate, and workload. The features of the artificial neural network's (ANN) input signals were designed so that each neuron represented pixels from bull's eye images. The results were binary values such as 0 or 1 when the output layer included one neuron that recorded whether coronary artery disease was present or not. Another study used eight output neurons to encode coronary artery disease severity, which was obtained by dividing the disease into seven faulty categories and one normal case. The back propagation algorithm was used to train artificial neural networks in the development of studies. The number of neurons, each layer of artificial neural networks (input, hidden, and output), the learning method (BP, Bayes), and the number of patients are all included in the list. It's based on research that shows artificial neural networks can detect coronary artery disease better than humans\cite{amato2013artificial}.
+
+\end{document}
