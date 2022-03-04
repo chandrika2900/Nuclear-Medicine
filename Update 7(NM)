@@ -1,0 +1,34 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{biblatex} %Imports biblatex package
+\addbibresource{update7.bib} %Import the bibilography file
+
+\title{Update 7}
+\author{\textit{Chandrika Rani Tudu}}
+\date{04/03/2022}
+
+\begin{document}
+
+\maketitle
+
+\section{1st Case study\cite{redelmeier1998treatment}}
+A 58-year-old man comes to the ER with chest pain.
+
+\subsection{Past medical history}
+• Coronary disease
+\\• Cocaine abuse
+\\• Questionable history of emphysema
+\\• The patient has chronic joint pain problems
+
+\subsection{Family history}
+Positive for hypertension. His brother died of a heart attack at age 45.
+
+\subsection{Social history}
+A 58-year-oldAfrican-American gentleman with history of emphysema was transferred from another hospital with dynamic EKG changes and chest pain. The patient admitted cocaine use five days prior to presentation. Beta blocker was held due to cocaine use. Amlodipine was added in an effort to decrease coronary spasm. Decadron was continued post procedure for 18 hours.
+
+Echo was done to reevaluate bilateral function, showing an EF of 30\%. The patient had smoked crack cocaine the day before presentation and had experienced substernal chest pain with typical angina symptoms the afternoon and evening before the morning of presentation. He was admitted to the ER and was given nitroglycerine with some relief of pain. Urine drug screen was positive for cocaine. The cardiology service recommended coronary angiogram the following day. The patient however did not want to have an invasive test.
+
+\subsection{Lab values- cardiac injury level}
+Patient had history of problems with affording medications and illicit drug use. Patient refused invasive testing, but did consent to a nuclear medicine stress test. Patient complained of shortness of breath, but denied any chest pain. SPECT images of the myocardium were obtained at approximately one hour delay. 39 mg of IV Persantine were infused over four minutes for pharmacy logical stressing.
+
+\end{document}
