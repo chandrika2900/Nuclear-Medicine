@@ -1,0 +1,27 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{biblatex} %Imports biblatex package
+\addbibresource{update9.bib} %Import the bibilography file
+
+\title{Update 9}
+\author{\textit{Chandrika Rani Tudu}}
+\date{18/03/2022}
+
+\begin{document}
+
+\maketitle
+
+\section{Medications on discharge}
+1. Zocor 20 mg 
+\\2.	Lisinopril 10 mg 
+\\3.	Aspirin 325 mg 
+\\4.	Plavix 75 mg
+\\5.	Spironolactone 25 mg 
+\\6.	Nitroglycerin 
+
+\vspace{1cm}
+
+He went to the ER four days after being discharged because he was having trouble breathing and swallowing, and he was diagnosed with angioedema of the uvula and bottom lip. He came in with a one-day history of lip swelling. He claims he has neither chest pain or diaphoresis. On the day before his admittance, he had a little amount of cocaine in his system. He was brought to the hospital for observation and given IV Benadryl and H2 Cimetidine. He was started on hydrocortisone and received one epinephrine injection. His difficulties swallowing and shortness of breath vanished. He was thought to have had an allergic response to the Lisinopril. After an internal medicine evaluation, the patient was discharged the next day. Patient was uncomplaining, and he was told not to take the ace inhibitor at this time, and he was reminded of the significance of quitting cocaine. The patient was readmitted only four days after his previous stay. The patient had elapsed and was unconscious on the day of admission. MEMS were dispatched, and the patient was shocked with an EED. After six electric shocks, the patient was given Lidocaine 100mg IV. On arrival, he was drugged and intubated. Aspiration pneumon was suspected, thus Clindamycin and Cefepime were given to the patient. A chest x-ray later revealed an infiltrate in the left lower lobe. The patient's temperature continued to rise, and his whiteness increased. The patient was given aspirin, Plavix, and heparin, as well as IV Amiodarone. The patient improved and became afebrile while on IV antibiotics. The number of white people began to decline. He had low haemoglobin and hematocrit, but they were steady. The patient's plans to move to a rehab unit were reviewed with social work. However, the patient grew evasive and refused to be admitted to a rehabilitation facility. The patient also refused an IV line, necessitating the discontinuation of IV antibiotics. As a result, he was put on 400 mg of gatifloxacin for another seven days. Following contacting his family, the patient was released 14 days after his stay. Two follow-up appointments were scheduled for the patient, as well as instructions on how to take his meds. The patient was also warned about the dangers of drinking alcohol or using cocaine again, as well as the potential of sudden cardiac death\cite{van2010domperidone}.
+
+
+\end{document}
