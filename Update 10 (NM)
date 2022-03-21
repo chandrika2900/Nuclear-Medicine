@@ -1,0 +1,47 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{biblatex} %Imports biblatex package
+\addbibresource{update10.bib} %Import the bibilography file
+
+\title{Update 10}
+\author{\textit{Chandrika Rani Tudu}}
+\date{25/03/2022}
+
+\begin{document}
+
+\maketitle
+
+\section{2nd Case study{\cite{viar1952chest}}}
+A 48-year-old black woman with hypertension and chest problems was admitted to the hospital.
+
+\subsection{ECG Results}
+•	Normal Sinus Rhythm
+\\•	Nonspecific T-wave abnormality
+\\•	Otherwise normal ECG
+\\•	Ventricular Rate 64 bpm
+
+\subsection{Nuclear Medicine}
+She was sent to the nuclear medicine department for diagnostics to see whether she had any cardiac ischemia.
+
+IV Persantine Stress - The patient was given 0.56 mg per kg of IV Persantine (47 mg total) over 4 minutes while resting. The blood pressure was 99/56 and the resting heart rate was 59 beats per minute. The EKG revealed a typical sinus rhythm with no sudden changes. The heart rate was 75 beats per minute after the Persantine infusion, and the blood pressure was 110/74. There were no systemic symptoms mentioned by the patient.
+
+\subsection{Impression}
+There was no Ischemic variation in the physiologic response to IV Persantine.
+
+\subsection{Myocardial Perfusion Study with SPECT{\cite{cerqueira2001nuclear}}}
+The patient was given an IV infusion of Tc-99m Sestamibi at rest. After a one-hour delay, SPECT pictures of the myocardium were acquired. The patient was given an additional 32 mCi of Tc-99m Sestamibi seven minutes into the Persantine infusion, and the imaging protocol was repeated.
+
+A perfusion deficit involving the front wall of the left ventricle can be seen on post-stress imaging.
+
+\subsubsection{Impression} 
+A reversible abnormality involving the left ventricle's front wall. A lad distribution lesion is the most likely explanation for the findings.
+
+\subsection{Quantitative Gated SPECT{\cite{go2004diagnostic}}}
+During the stress acquisition, gated SPECT imaging was used. The end diastolic volume of the left ventricle was calculated to be 79 cc, the end systolic volume to be 32 cc, and the left ventricular ejection percentage to be 62\%.
+
+\subsubsection{Impression}
+SPECT with a normal quantitative gate. The results were communicated to the referring physician in the family medicine service.
+
+After the procedure, the patient was discharged from the hospital. Her doctor called her at home and told her she needed to go to the ER since she had a positive stress test that morning. She had severe exertional chest pain but no nausea, diaphoresis, dizziness, or dyspnea, according to the patient. The patient stated that she was experiencing chest pain and that her heart was racing. She also stated that she was not feeling well. She stated that she will go to the emergency room tonight.
+
+\end{document}
