@@ -1,0 +1,17 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{biblatex} %Imports biblatex package
+\addbibresource{Update11.bib} %Import the bibilography file
+
+\title{Update 11}
+\author{\textit{Chandrika Rani Tudu}}
+\date{01/04/2022}
+
+\begin{document}
+
+\maketitle
+
+\section{Conclusion}
+Many heart illnesses, including CAD, necessitate both anatomical and functional data to be fully assessed. This can be done in a variety of methods, and the capabilities of typical imaging modalities overlap, especially when it comes to assessing myocardial viability, function, and coronary morphology. The accuracy and cost of the procedures are similar, according to NICE recommendations in the UK on the assessment of patients initially presenting with suspected angina, and the decision between them can be dependent on local availability and expertise\cite{peng2016review}. While their accuracy may be comparable in ideal hands, it is unknown whether the newer perfusion procedures function as well in the real world, and no robust cost-effectiveness studies have been conducted. Each approach is backed by suitability criteria that overlap in the group of patients who have a moderate risk of coronary artery disease (CAD). The fact that echocardiography, nuclear cardiology, cardiovascular MRI, and CT were developed by separate specialties, such as cardiology, nuclear medicine, and radiology, is a significant difference. When a procedure is in the hands of the referring physician, it is more likely to be employed for professional and financial reasons. As a result, in certain circumstances, the decision is made in the doctor's best interests rather than the patient's. In this aspect, there are significant variances between countries. The imaging industry's interests have influenced the development of technology in several circumstances. A scenario like this should not be allowed to continue\cite{khajavi2014additive}. The panel believed that the best way to achieve a balanced use of cardiac imaging is through education of consumers and providers of imaging services, which should be independent as much as possible of the specialist's past expertise, whether in cardiology, nuclear medicine, or radiology. The committee was also optimistic that increased collaboration between experts and subspecialists would allow the best interests of the patient to prevail, as well as the significant advances in cardiac imaging for patients in all regions.
+
+\end{document}
