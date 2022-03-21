@@ -1,0 +1,20 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{biblatex} %Imports biblatex package
+\addbibresource{Update8.bib} %Import the bibilography file
+
+\title{Update 8}
+\author{\textit{Chandrika Rani Tudu}}
+\date{11/03/2022}
+
+\begin{document}
+
+\maketitle
+
+\section{Impression}
+Large fixed perfusion defect in ferolateral walls including the lateral, inferior, and apex. To test for hibernating myocardium, a thallium viability scan is indicated. This information was given to the patient's doctor. Quantitative gated SPECT: During the stress acquisition, a quantitative gated SPECT examination was done. The diastolic volume at the end of the diastole was calculated to be 180cc. The 148cc end systolic volume was determined. The ejection fraction of the left ventricle was calculated to be 18 percent. On the CINE images, there is dyskinesis involving the apex  \cite{machac2005cardiac}.
+
+\section{Impression}
+With an ejection fraction of 18 percent, the left ventricle is dilated, with major worldwide hypokinesis and apical dyskinesis. After three days, the patient was discharged with no chronic pain or other angina-like symptoms. For the next month, the patient was discharged in stable condition with a cardiac diet and instructions to limit activity to non-stressful activities. He was also strongly encouraged to avoid abusing drugs and to engage in a drug rehabilitation programme\cite{fishbein2016myocardial}. 
+
+\end{document}
